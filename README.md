@@ -16,5 +16,5 @@ https://user-images.githubusercontent.com/65464431/165749146-921c7672-5fc9-459d-
 # Installation:
 - Clone repository
 - npm i
-- node server.js
+- npm start
 -`http://localhost:3000/`
