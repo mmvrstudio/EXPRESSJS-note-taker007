@@ -1,0 +1,15 @@
+{
+  "name": "expressjs-note-taker",
+  "version": "1.0.0",
+  "description": "expressjs-note-taker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mariana Marques",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  }
+}
