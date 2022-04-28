@@ -1,5 +1,5 @@
 # Description :
-Built with Express.js, this note taker that allows users to save, update and delete their notes.
+Built with Express.js, this note taker allows users to save, update and delete their notes.
 
 ## Deployed Application Link :  https://expressjs-note-taker007.herokuapp.com/notes
 
