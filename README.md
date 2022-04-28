@@ -17,4 +17,4 @@ https://user-images.githubusercontent.com/65464431/165749146-921c7672-5fc9-459d-
 - Clone repository
 - npm i
 - node server.js
-- localhost will be on port 3000 :  `http://localhost:3000/`
+-`http://localhost:3000/`
